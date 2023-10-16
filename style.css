@@ -8,7 +8,7 @@ h2 {
     font-weight: bolder;
     color: black;
 }
-th:nth-child(even) {
+th:nth-child() {
   background-color: #D6EEEE;
 }
 img {
