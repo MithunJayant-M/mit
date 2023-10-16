@@ -1,3 +1,6 @@
 #photo{
     border: 2px blue solid;
 }
+body {
+    background-color: rgb(96, 124, 115);
+}
