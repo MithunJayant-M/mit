@@ -10,7 +10,10 @@ h2 {
     text-decoration: underline;
     font-weight: bolder;
     color: black;
-}   
+}
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
 img {
     margin-bottom: 30px;
     border: 5px solid green
