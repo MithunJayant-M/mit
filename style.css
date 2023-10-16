@@ -1,6 +1,13 @@
-#photo{
-    border: 2px blue solid;
-}
 body {
     background-color: rgb(96, 124, 115);
+}
+h1 {
+    text-decoration: underline;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+img {
+    margin-bottom: 30px;
+    border: 5px solid green
 }
